@@ -11,7 +11,10 @@
 * @emit pickerData - 点击确认按钮传递的选择结果数组
 
 # 效果图
-![s]()
+![日期选择](https://github.com/SCNUchenzhiwen/vue_pickerPlugin/blob/master/images/datePicker.png)
+![日期选择](https://github.com/SCNUchenzhiwen/vue_pickerPlugin/blob/master/images/datePicker1.png)
+![日期选择](https://github.com/SCNUchenzhiwen/vue_pickerPlugin/blob/master/images/datePicker2.png)
+![城市选择](https://github.com/SCNUchenzhiwen/vue_pickerPlugin/blob/master/images/cityPicker.png)
 
 传入地区选择示例格式，在App.vue文件的data定义，理论上应该抽取出来引入的。
 ###        [{
